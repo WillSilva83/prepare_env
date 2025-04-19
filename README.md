@@ -1,6 +1,4 @@
-### README.md para o Dockerfile
 
-```markdown
 # Ambiente Docker com PySpark, AWS CLI e Jupyter Notebook
 
 Este Dockerfile configura um ambiente Docker com suporte para desenvolvimento em PySpark, Jupyter Notebook e AWS CLI. Ele é ideal para processar dados em Spark e trabalhar com serviços da AWS.
